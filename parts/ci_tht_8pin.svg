@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="260" height="150" viewBox="0, 0, 260, 150">
+  <g id="Layer_1">
+    <g id="8pin_ci">
+      <g id="4_pin">
+        <path d="M92,54 L105,54 L105,59.5 L92,59.5 L92,54 z" fill="#AEAEAE"/>
+        <path d="M92,88.5 L105,88.5 L105,94 L92,94 L92,88.5 z" fill="#AEAEAE"/>
+        <path d="M92,65.5 L105,65.5 L105,71 L92,71 L92,65.5 z" fill="#AEAEAE"/>
+        <path d="M92,77 L105,77 L105,82.5 L92,82.5 L92,77 z" fill="#AEAEAE"/>
+      </g>
+      <g id="4_pin">
+        <path d="M155,54 L168,54 L168,59.5 L155,59.5 L155,54 z" fill="#AEAEAE"/>
+        <path d="M155,88.5 L168,88.5 L168,94 L155,94 L155,88.5 z" fill="#AEAEAE"/>
+        <path d="M155,65.5 L168,65.5 L168,71 L155,71 L155,65.5 z" fill="#AEAEAE"/>
+        <path d="M155,77 L168,77 L168,82.5 L155,82.5 L155,77 z" fill="#AEAEAE"/>
+      </g>
+      <path d="M105,49 L155,49 L155,99 L105,99 L105,49 z" fill="#212121"/>
+    </g>
+  </g>
+</svg>

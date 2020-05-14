@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="15" height="15" viewBox="0, 0, 15, 15">
+  <g id="Layer_1">
+    <g id="hole">
+      <path d="M7.5,0 C11.642,0 15,3.338 15,7.457 L14.997,7.5 L0.003,7.5 L0,7.457 C0,3.338 3.358,0 7.5,0 z" fill="#B0B0B0"/>
+      <path d="M7.5,15 C3.358,15 0,11.662 0,7.543 L0.003,7.5 L14.997,7.5 L15,7.543 C15,11.662 11.642,15 7.5,15 z" fill="#EDEDED"/>
+      <path d="M7.5,12.5 C4.739,12.5 2.5,10.261 2.5,7.5 C2.5,4.739 4.739,2.5 7.5,2.5 C10.261,2.5 12.5,4.739 12.5,7.5 C12.5,10.261 10.261,12.5 7.5,12.5 z" fill="#2B2B2B"/>
+    </g>
+  </g>
+</svg>
